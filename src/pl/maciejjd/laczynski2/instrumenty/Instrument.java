@@ -34,3 +34,4 @@ public abstract class Instrument {
                 + " data: "+this.dataProdukcji;
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

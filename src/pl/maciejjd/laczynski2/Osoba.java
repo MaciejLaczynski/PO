@@ -33,3 +33,4 @@ public abstract class Osoba {
         return plec;
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

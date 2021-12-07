@@ -26,3 +26,4 @@ public class Student extends Osoba {
         return "Student ten jest na kierunku: " + this.kierunek + " ze średnią: " + this.srednia;
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

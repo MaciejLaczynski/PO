@@ -26,3 +26,4 @@ public class Pracownik extends Osoba {
                 this.dataZatrudnienia.toString(), this.pensja);
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

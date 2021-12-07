@@ -15,4 +15,4 @@ public class Test {
         }
     }
 }
-
+//Jak zwykle coś z githubem mi się musi pierdolić xd

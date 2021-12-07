@@ -10,3 +10,4 @@ public class Flet extends Instrument{
         return "*EARRAPE FLUTE SOUND PLAyING IN THE DISTANCE*";
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

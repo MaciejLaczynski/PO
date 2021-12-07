@@ -10,3 +10,4 @@ public class Fortepian extends Instrument{
         return "Nacieszcie uszy dzwiekami istrumentu Edwarda!";
     }
 }
+//Jak zwykle coś z githubem mi się musi pierdolić xd

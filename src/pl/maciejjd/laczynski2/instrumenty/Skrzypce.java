@@ -10,4 +10,3 @@ public class Skrzypce extends Instrument{
         return "*Nostalgicne sksypecki grajo hej!*";
     }
 }
-//Jak zwykle coś z githubem mi się musi pierdolić xd
